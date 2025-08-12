@@ -1,0 +1,70 @@
+10001;Sefiller;Victor Hugo;1862;5;1
+10002;Suc ve Ceza;Fyodor Dostoyevski;1866;3;1
+10003;Kucuk Prens;Antoine de Saint-Exupery;1943;7;1
+10004;Don Kisot;Miguel de Cervantes;1605;2;1
+10005;Anna Karenina;Lev Tolstoy;1877;4;1
+10006;1984;George Orwell;1949;8;1
+10007;Hayvan Ciftligi;George Orwell;1945;6;1
+10008;Ugultulu Tepeler;Emily Bronte;1847;3;1
+10009;Bulbulu Oldurmek;Harper Lee;1960;5;1
+10010;Yuz Yillik Yalnizlik;Gabriel Garcia Marquez;1967;4;1
+10011;Gurur ve Onyargi;Jane Austen;1813;6;1
+10012;Jane Eyre;Charlotte Bronte;1847;3;1
+10013;Buyuk Umutlar;Charles Dickens;1861;4;1
+10014;Oliver Twist;Charles Dickens;1838;5;1
+10015;Savas ve Baris;Lev Tolstoy;1869;2;1
+10016;Dorian Gray'in Portresi;Oscar Wilde;1890;4;1
+10017;Frankenstein;Mary Shelley;1818;3;1
+10018;Dracula;Bram Stoker;1897;2;1
+10019;Alice Harikalar Diyarinda;Lewis Carroll;1865;6;1
+10020;Iki Sehrin Hikayesi;Charles Dickens;1859;5;1
+10021;Donusum;Franz Kafka;1915;7;1
+10022;Deniz Feneri;Virginia Woolf;1927;3;1
+10023;Ulysses;James Joyce;1922;2;1
+10024;Muhtesem Gatsby;F. Scott Fitzgerald;1925;5;1
+10025;Faust;Johann Wolfgang von Goethe;1808;3;1
+10026;Madame Bovary;Gustave Flaubert;1856;4;1
+10027;Prens;Niccolo Machiavelli;1532;3;1
+10028;Gulliver'in Seyahatleri;Jonathan Swift;1726;4;1
+10029;Robinson Crusoe;Daniel Defoe;1719;5;1
+10030;Tom Sawyer'in Maceralari;Mark Twain;1876;6;1
+10031;Huckleberry Finn'in Maceralari;Mark Twain;1884;5;1
+10032;Define Adasi;Robert Louis Stevenson;1883;4;1
+10033;Jules Verne - Dunyanin Merkezine Yolculuk;Jules Verne;1864;3;1
+10034;Seksen Gunde Devr-i Alem;Jules Verne;1873;4;1
+10035;Denizler Altinda Yirmi Bin Fersah;Jules Verne;1870;3;1
+10036;Sifir Gun;Hakan Gunday;2017;5;1
+10037;Kurk Mantolu Madonna;Sabahattin Ali;1943;8;1
+10038;Icimizdeki Seytan;Sabahattin Ali;1940;7;1
+10039;Kuyucakli Yusuf;Sabahattin Ali;1937;6;1
+10040;Tutunamayanlar;Oguz Atay;1972;4;1
+10041;Tehlikeli Oyunlar;Oguz Atay;1973;3;1
+10042;Saatleri Ayarlama Enstitusu;Ahmet Hamdi Tanpinar;1962;5;1
+10043;Huzur;Ahmet Hamdi Tanpinar;1949;4;1
+10044;Aylak Adam;Yusuf Atilgan;1959;5;1
+10045;Anayurt Oteli;Yusuf Atilgan;1973;4;1
+10046;Ince Memed;Yasar Kemal;1955;6;1
+10047;Binbogalar Efsanesi;Yasar Kemal;1971;3;1
+10048;Yilani Oldurseler;Yasar Kemal;1976;2;1
+10049;Bereketli Topraklar Uzerinde;Orhan Kemal;1954;4;1
+10050;Cemile;Orhan Kemal;1952;5;1
+10051;Karakalem;Murat Mentes;2010;4;1
+10052;Dublorun Dilemmasi;Murat Mentes;2005;3;1
+10053;Kinyas ve Kayra;Hakan Gunday;2000;5;1
+10054;Az;Hakan Gunday;2011;4;1
+10055;Zargana;Hakan Gunday;2002;3;1
+10056;Boyle Gelmis Boyle Gitmez;Aziz Nesin;1966;5;1
+10057;Yasar Ne Yasar Ne Yasamaz;Aziz Nesin;1977;4;1
+10058;Simdiki Cocuklar Harika;Aziz Nesin;1967;6;1
+10059;Gulun Adi;Umberto Eco;1980;3;1
+10060;Foucault Sarkaci;Umberto Eco;1988;2;1
+10061;Korluk;Jose Saramago;1995;5;1
+10062;Kucuk Kara Balik;Samet Behrengi;1968;7;1
+10063;Marti;Richard Bach;1970;6;1
+10064;Simyaci;Paulo Coelho;1988;8;1
+10065;Veronika Olmek Istiyor;Paulo Coelho;1996;5;1
+10066;Satranc;Stefan Zweig;1942;7;1
+10067;Olaganustu Bir Gece;Stefan Zweig;1922;6;1
+10068;Amok Kosucusu;Stefan Zweig;1922;5;1
+10069;Cesur Yeni Dunya;Aldous Huxley;1932;4;1
+10070;Dusunce Deneyleri;Stephen King;1993;3;1

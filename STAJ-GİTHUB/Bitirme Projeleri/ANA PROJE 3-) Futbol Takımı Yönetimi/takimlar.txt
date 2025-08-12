@@ -1,0 +1,10 @@
+Eyupspor;45
+Galatasaray;65
+Rizespor;60
+Besiktas;80
+Samsunspor;48
+Goztepe;80
+Basaksehir;70
+Kasimpasa;45
+Trabzonspor;45
+Fenerbahce;55
